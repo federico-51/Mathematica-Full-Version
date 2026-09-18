@@ -243,4 +243,4 @@ This repository serves as the official landing page for Mathematica. The softwar
 **Get the most recent version of Mathematica today!**
 
 ---
-**Last updated:** 2026-09-18 18:40:26 UTC
+**Last updated:** 2026-09-18 21:18:15 UTC
